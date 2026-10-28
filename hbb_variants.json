@@ -1,0 +1,79 @@
+[
+  {
+    "hgvs": "c.20A>T",
+    "aliases": [],
+    "name": "HbS (sickle cell variant)",
+    "legacy": "Glu6Val (codon 6 GAG>GTG)",
+    "protein": "p.Glu7Val",
+    "effect": "missense",
+    "condition": "Sickle cell disease",
+    "clinvar_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/15333/",
+    "source": "ClinVar (Pathogenic) / HbVar, checked 2026-10-27"
+  },
+  {
+    "hgvs": "c.19G>A",
+    "aliases": [],
+    "name": "HbC",
+    "legacy": "Glu6Lys (codon 6 GAG>AAG)",
+    "protein": "p.Glu7Lys",
+    "effect": "missense",
+    "condition": "HbC disease; HbSC disease when inherited with HbS",
+    "clinvar_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/15126/",
+    "source": "ClinVar (Pathogenic) / HbVar, checked 2026-10-27"
+  },
+  {
+    "hgvs": "c.79G>A",
+    "aliases": [],
+    "name": "HbE",
+    "legacy": "Glu26Lys (codon 26 GAG>AAG)",
+    "protein": "p.Glu27Lys",
+    "effect": "missense",
+    "condition": "HbE trait/disease; with beta-thalassemia gives HbE/beta-thalassemia (common in eastern India and Southeast Asia)",
+    "clinvar_url": "",
+    "source": "ClinVar / IthaGenes / HbVar, checked 2026-10-27"
+  },
+  {
+    "hgvs": "c.118C>T",
+    "aliases": [],
+    "name": "Codon 39 (C>T)",
+    "legacy": "Codon 39 CAG>TAG (Gln39Ter)",
+    "protein": "p.Gln40Ter",
+    "effect": "nonsense",
+    "condition": "Beta-zero thalassemia",
+    "clinvar_url": "",
+    "source": "ClinVar / LOVD / HbVar, checked 2026-10-27"
+  },
+  {
+    "hgvs": "c.47G>A",
+    "aliases": [],
+    "name": "Codon 15 (G>A)",
+    "legacy": "Codon 15 TGG>TAG (Trp15Ter)",
+    "protein": "p.Trp16Ter",
+    "effect": "nonsense",
+    "condition": "Beta-zero thalassemia",
+    "clinvar_url": "",
+    "source": "ClinVar / LOVD / HbVar, checked 2026-10-27"
+  },
+  {
+    "hgvs": "c.126_129del",
+    "aliases": ["c.124_127del", "c.125_128del"],
+    "name": "Codon 41/42 (-TTCT)",
+    "legacy": "Codons 41/42 deletion of TTCT",
+    "protein": "frameshift",
+    "effect": "frameshift",
+    "condition": "Beta-zero thalassemia",
+    "clinvar_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/15417/",
+    "source": "ClinVar (Pathogenic) / LOVD / HbVar, checked 2026-10-27"
+  },
+  {
+    "hgvs": "c.27dup",
+    "aliases": ["c.27_28insG", "c.26_27insG"],
+    "name": "Codon 8/9 (+G)",
+    "legacy": "Codons 8/9 insertion of G (AAG TCT > AAG G TCT)",
+    "protein": "frameshift",
+    "effect": "frameshift",
+    "condition": "Beta-zero thalassemia",
+    "clinvar_url": "",
+    "source": "ClinVar / LOVD / HbVar, checked 2026-10-27"
+  }
+]
